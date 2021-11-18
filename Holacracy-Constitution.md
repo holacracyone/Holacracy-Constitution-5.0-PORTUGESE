@@ -305,7 +305,7 @@ Uma Política pode somente ser uma ou mais das seguintes:
 
 - **(a)** Uma restrição na autoridade de um ou mais dos Papéis Contidos do Círculo; ou
 - **(b)** Uma concessão de uma autoridade que o Círculo ou o Líder de Círculo detém para um ou mais Papéis; ou
-- **(c)** Uma concessão da autoridade que permita as pessoas ou aos Papéis não do contrário autorizados a controlar ou impactar um dos Domínios do Círculo, ou uma restrição de como eles podem assim fazer quando do contrário autorizado; ou
+- **(c)** Uma concessão da autoridade que permita às pessoas ou aos Papéis não do contrário autorizados a controlar ou impactar um dos Domínios do Círculo, ou uma restrição de como eles podem assim fazer quando do contrário autorizado; ou
 - **(e)** Uma regra que muda uma regra padrão ou o processo nesta Constituição, se essa mudança for explicitamente permitida.
 
 Uma Política que concede ou restringe a autoridade se aplica a todos os Subcírculos também, recursivamente, a menos que do contrário declarado. Uma Política que muda uma regra ou processo padrão nesta Constituição se aplica somente dentro do Círculo que detém a Política, ou, se explicitamente declarado, dentro de todos os Subcírculos também, recursivamente. No último caso, um Subcírculo pode ainda substituir essa Política através de uma própria, a menos que explicitamente proibido na Política original.
