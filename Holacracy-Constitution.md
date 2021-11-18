@@ -10,7 +10,7 @@ A Organização pode nomear outros ***"Parceiros"*** além dos Ratificantes para
 
 Cada Parceiro pode confiar nas autoridades concedidas por esta Constituição até o alcance total que os Ratificantes detinham tais autoridades antes de adotá-la. Todas as responsabilidades e restrições a respeito de um Parceiro vêm desta Constituição e dos resultados de seus processos, e de qualquer dever legal que o Parceiro tem para com a Organização enquanto atuar em seu nome. Nenhuma expectativa implícita ou restrição tem qualquer poder sobre um Parceiro, e nem tem qualquer ordem emitida fora da autoridade concedida por esta Constituição.
 
-## Artigo 1: A Estrutura Organizacional
+## Artigo 1: Estrutura Organizacional
 
 ### 1.1 Definição do Papel
 
@@ -61,7 +61,7 @@ O interior de cada Papel é um Círculo. Esse Círculo pode manter os seus próp
 
 Um Círculo interno de um Papel é considerado um ***"Subcírculo"*** do Círculo mais amplo que detém o Papel, enquanto esse Círculo mais amplo é o seu ***"Supercírculo."***
 
-#### 1.3.2 Delegar Domínios
+#### 1.3.2 Delegando Domínios
 
 Quando um Círculo concede um Domínio a um de seus Papéis, qualquer Líder de Papel para aquele Papel pode controlar aquele Domínio em nome do Círculo. Um Círculo pode somente conceder Domínios aos seus Papéis que encaixem dentro dos próprios Domínios do Círculo, ou que sejam somente relevantes dentro dos seus próprios processos internos.
 
@@ -75,7 +75,7 @@ O Círculo mais amplo que detém o Propósito de toda a Organização é o seu *
 
 Os Ratificantes podem definir uma estrutura inicial e outra Governança dentro do Círculo Âncora ao adotarem esta Constituição.
 
-#### 1.3.4 Conectando-se com os Círculos
+#### 1.3.4 Conectando-se com Círculos
 
 Um Papel pode conectar-se com outro Círculo se uma Política desse outro Círculo ou qualquer outro Supercírculo desse o convidar.
 

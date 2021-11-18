@@ -26,7 +26,7 @@ O(s) Ratificante(s) nomeado(s) abaixo por meio deste adota as seguintes seções
 
 ---
 
-**Adotou no dia \_\_\_\_\_\_\_\_ do mês de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ do ano de \_\_\_\_\_\_\_\_\_ por:**
+**Adotado no dia \_\_\_\_\_\_\_\_ do mês de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ do ano de \_\_\_\_\_\_\_\_\_ por:**
 
 *Assinaturas dos Ratificantes:*
 
